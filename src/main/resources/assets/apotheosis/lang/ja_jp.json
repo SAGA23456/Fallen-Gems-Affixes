@@ -1,0 +1,79 @@
+{
+  "item.apotheosis.gem.fallen_gems_affixes:compat/power_eldritch": "エルドリッチのジェム",
+  "item.apotheosis.gem.fallen_gems_affixes:compat/spell_holy": "聖術階級のジェム",
+  "item.apotheosis.gem.fallen_gems_affixes:compat/spell_eldritch": "異界術階級のジェム",
+  "item.apotheosis.gem.fallen_gems_affixes:compat/spell_ender": "闇術階級ジェム",
+  "item.apotheosis.gem.fallen_gems_affixes:compat/spell_ice": "氷術階級ジェム",
+  "item.apotheosis.gem.fallen_gems_affixes:compat/spell_nature": "自然術階級ジェム",
+  "item.apotheosis.gem.fallen_gems_affixes:compat/spell_blood": "血術階級ジェム",
+  "item.apotheosis.gem.fallen_gems_affixes:compat/spell_evocation": "召喚術階級のジェム",
+  "item.apotheosis.gem.fallen_gems_affixes:compat/spell_fire": "火術階級ジェム",
+  "item.apotheosis.gem.fallen_gems_affixes:compat/spell_general": "全術式階級ジェム",
+  "item.apotheosis.gem.fallen_gems_affixes:compat/spell_lightning": "雷術階級ジェム",
+  "item.apotheosis.gem.fallen_gems_affixes:compat/hemolith_shard": "ヘモリス断片",
+  "item.apotheosis.gem.fallen_gems_affixes:compat/voidmancers_eye": "虚空の魔術師の瞳",
+  "item.apotheosis.gem.fallen_gems_affixes:compat/divine_stone": "神聖石",
+  "item.apotheosis.gem.fallen_gems_affixes:compat/nyxite_crystal": "ニクサイト結晶",
+  "item.apotheosis.gem.fallen_gems_affixes:compat/frostvein_crystal": "フロストヴェイン結晶",
+  "item.apotheosis.gem.fallen_gems_affixes:compat/verdanite_shard": "ヴァーダナイトの破片",
+  "item.apotheosis.gem.fallen_gems_affixes:compat/arcane_catalyst": "秘術触媒",
+  "item.apotheosis.gem.fallen_gems_affixes:compat/emberheart_shard": "アンバーハート破片",
+  "item.apotheosis.gem.fallen_gems_affixes:compat/thunderheart_fragment": "サンダーハート断片",
+  "item.apotheosis.gem.fallen_gems_affixes:boss_gems/blood_tyrant": "血の暴君のジェム",
+  "item.apotheosis.gem.fallen_gems_affixes:boss_gems/fallen_warrior": "堕ちし戦士のジェム",
+  "item.apotheosis.gem.fallen_gems_affixes:boss_gems/guardian_of_hell": "地獄の守護者のジェム",
+  "item.apotheosis.gem.fallen_gems_affixes:boss_gems/infernal_overlord": "煉獄の覇者のジェム",
+  "item.apotheosis.gem.fallen_gems_affixes:boss_gems/ruler_of_abyss": "深淵の支配者のジェム",
+  "item.apotheosis.gem.fallen_gems_affixes:boss_gems/void_guardian": "虚無の守護者のジェム",
+  "item.apotheosis.gem.fallen_gems_affixes:boss_gems/withered_sentinel": "朽ち果てし番人のジェム",
+  "item.apotheosis.gem.fallen_gems_affixes:boss_gems/howling_storm": "咆哮する嵐のジェム",
+  "item.apotheosis.gem.fallen_gems_affixes:ragnarok": "ラグナロク・ジェム",
+
+  "affix.fallen_gems_affixes:armor/mob_effect/berserk": "狂戦",
+  "affix.fallen_gems_affixes:armor/mob_effect/berserk.suffix": "〜狂戦士の",
+
+  "affix.fallen_gems_affixes:armor/mob_effect/burning_thorns": "灼熱刺",
+  "affix.fallen_gems_affixes:armor/mob_effect/burning_thorns.suffix": "〜灼け焦がす者の",
+
+  "affix.fallen_gems_affixes:armor/mob_effect/caffeinated": "覚醒の",
+  "affix.fallen_gems_affixes:armor/mob_effect/caffeinated.suffix": "〜中毒者の",
+
+  "affix.fallen_gems_affixes:armor/mob_effect/perception": "洞察",
+  "affix.fallen_gems_affixes:armor/mob_effect/perception.suffix": "〜全視者の",
+
+  "affix.fallen_gems_affixes:armor/mob_effect/smouldering": "燻る",
+  "affix.fallen_gems_affixes:armor/mob_effect/smouldering.suffix": "〜溶岩肌の",
+
+  "affix.fallen_gems_affixes:heavy_weapon/mob_effect/heartbreak": "心砕き",
+  "affix.fallen_gems_affixes:heavy_weapon/mob_effect/heartbreak.suffix": "〜失恋者の",
+
+  "affix.fallen_gems_affixes:heavy_weapon/mob_effect/shatterspleen": "粉砕",
+  "affix.fallen_gems_affixes:heavy_weapon/mob_effect/shatterspleen.suffix": "〜粉砕者の",
+
+  "affix.fallen_gems_affixes:shield/mob_effect/adrenaline": "興奮漲る",
+  "affix.fallen_gems_affixes:shield/mob_effect/adrenaline.suffix": "〜熱狂者の",
+
+  "affix.fallen_gems_affixes:shield/mob_effect/venom": "毒性の",
+  "affix.fallen_gems_affixes:shield/mob_effect/venom.suffix": "〜有毒の",
+
+  "affix.fallen_gems_affixes:sword/mob_effect/bleeding": "出血の",
+  "affix.fallen_gems_affixes:sword/mob_effect/bleeding.suffix": "〜失われた肝の",
+
+  "bonus.fallen_gems_affixes:multi_attr.desc.and_three": "%s、%s、そして %s",
+  "bonus.fallen_gems_affixes:multi_attr.desc.and_four": "%s、%s、%s、そして %s",
+  "bonus.fallen_gems_affixes:attr.desc": "%s",
+
+  "text.apotheosis.category.celestial_weapons": "天界兵装",
+  "text.apotheosis.category.celestial_weapons.plural": "天界兵装",
+
+  "text.apotheosis.category.staffs": "杖",
+  "text.apotheosis.category.staffs.plural": "杖",
+
+  "affix.apotheosis:luck": "脅威",
+  "affix.apotheosis:luck.suffix": "",
+  "affix.apotheosis:luck.desc": "装備の希少度に比例した脅威倍率を追加",
+
+  "gem_class.staffs": "杖",
+  "gem_class.celestial_weapons": "天界兵装",
+  "gem_class.melee_ranged": "武器"
+}
