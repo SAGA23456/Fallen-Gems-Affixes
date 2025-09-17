@@ -1,0 +1,393 @@
+{
+  "attribute.fallen_gems_affixes.kick_reduction": "反動軽減",
+  "attribute.fallen_gems_affixes.projectile_speed": "弾速",
+  "attribute.fallen_gems_affixes.fire_rate": "連射速度",
+  "attribute.fallen_gems_affixes.additional_ammo": "追加弾薬",
+  "attribute.fallen_gems_affixes.spread_reduction": "散布低減",
+  "attribute.fallen_gems_affixes.reload_speed": "リロード速度上昇",
+  "attribute.fallen_gems_affixes.bullet_damage": "弾丸ダメージ",
+  "attribute.fallen_gems_affixes.max_health_damage": "最大体力に対するダメージ",
+  "affix.fallen_gems_affixes.infinity": "∞",
+  "bonus.fallen_gems_affixes:permanent_effect": "恒久効果として %s を得る",
+
+  "affix.fallen_gems_affixes.target.spell_damage_self": "魔法ダメージ時に %s を自身に付与する",
+  "affix.fallen_gems_affixes.target.spell_damage_target": "魔法ダメージ時に対象に %s を与える",
+  "affix.fallen_gems_affixes.target.spell_heal_self": "魔法回復時に %s を自身に付与する",
+  "affix.fallen_gems_affixes.target.spell_heal_target": "魔法回復時に対象へ %s を付与する",
+
+  "affix.fallen_gems_affixes.trigger.spell_damage": "魔法ダメージ時に %s を発動する",
+  "affix.fallen_gems_affixes.trigger.spell_damage.self": "魔法ダメージ時に %s を自身に発動する",
+  "affix.fallen_gems_affixes.trigger.spell_heal": "魔法回復時に %s を発動する",
+  "affix.fallen_gems_affixes.trigger.spell_heal.self": "魔法回復時に %s を自身に発動する",
+  "affix.fallen_gems_affixes.trigger.melee_hit": "攻撃命中時に %s を発動する",
+  "affix.fallen_gems_affixes.trigger.melee_hit.self": "攻撃命中時に %s を自身に発動する",
+  "affix.fallen_gems_affixes.trigger.projectile_hit": "弾丸命中時に %s を発動する",
+  "affix.fallen_gems_affixes.trigger.projectile_hit.self": "弾丸命中時に %s を自身に発動する",
+  "affix.fallen_gems_affixes.trigger.hurt": "被ダメージ時に %s を発動する",
+  "affix.fallen_gems_affixes.trigger.hurt.self": "被ダメージ時に %s を自身に発動する",
+
+  "affix.fallen_gems_affixes.soulbound.desc": "この装備は死亡してもあなたに残り続ける",
+  "affix.fallen_gems_affixes:soulbound": "ソウルバウンド",
+  "affix.fallen_gems_affixes:soulbound.suffix": "魂の",
+
+  "affix.fallen_gems_affixes:gun/attribute/kick_reduction": "安定化",
+  "affix.fallen_gems_affixes:gun/attribute/kick_reduction.suffix": "落ち着きの",
+
+  "affix.fallen_gems_affixes:gun/attribute/projectile_speed": "加速化",
+  "affix.fallen_gems_affixes:gun/attribute/projectile_speed.suffix": "速度の",
+
+  "affix.fallen_gems_affixes:gun/attribute/fire_rate": "超速射",
+  "affix.fallen_gems_affixes:gun/attribute/fire_rate.suffix": "迅速射撃の",
+
+  "affix.fallen_gems_affixes:gun/attribute/capacity": "拡張装填",
+  "affix.fallen_gems_affixes:gun/attribute/capacity.suffix": "豊穣の",
+
+  "affix.fallen_gems_affixes:gun/attribute/spread_reduction": "精密化",
+  "affix.fallen_gems_affixes:gun/attribute/spread_reduction.suffix": "正確さの",
+
+  "affix.fallen_gems_affixes:gun/attribute/reload_speed": "迅速化",
+  "affix.fallen_gems_affixes:gun/attribute/reload_speed.suffix": "素早き手の",
+
+  "affix.fallen_gems_affixes:gun/attribute/bullet_damage": "破壊力",
+  "affix.fallen_gems_affixes:gun/attribute/bullet_damage.suffix": "壊滅の",
+
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/astral": "星界",
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/astral.suffix": "星の",
+
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/astral_might": "星界の力",
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/astral_might.suffix": "宇宙の力の",
+
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/fateweaver": "運織り",
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/fateweaver.suffix": "運命を紡ぐ",
+
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/rift_dancer": "裂隙の舞",
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/rift_dancer.suffix": "完璧な運動の",
+
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/soulflare": "ソウルフレア",
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/soulflare.suffix": "燃ゆる心の",
+
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/voidburst": "ヴォイドバースト",
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/voidburst.suffix": "深淵の",
+
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/voidrend": "ヴォイドレンド",
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/voidrend.suffix": "次元断の",
+
+  "affix.fallen_gems_affixes:heavy_weapon/attribute/annihilate": "殲滅",
+  "affix.fallen_gems_affixes:heavy_weapon/attribute/annihilate.suffix": "貪り喰う虚無の",
+
+  "affix.fallen_gems_affixes:staffs/attribute/mystic": "神秘",
+  "affix.fallen_gems_affixes:staffs/attribute/mystic.suffix": "呪術の",
+
+  "affix.fallen_gems_affixes:staffs/attribute/restorative": "回復の",
+  "affix.fallen_gems_affixes:staffs/attribute/restorative.suffix": "マナを満たす",
+
+  "affix.fallen_gems_affixes:staffs/attribute/verdant": "翠嵐",
+  "affix.fallen_gems_affixes:staffs/attribute/verdant.suffix": "野性の",
+
+  "affix.fallen_gems_affixes:staffs/attribute/wellspring": "泉源",
+  "affix.fallen_gems_affixes:staffs/attribute/wellspring.suffix": "内なる蓄えの",
+
+  "affix.fallen_gems_affixes:staffs/attribute/stormcharged": "雷帯",
+  "affix.fallen_gems_affixes:staffs/attribute/stormcharged.suffix": "嵐の",
+
+  "affix.fallen_gems_affixes:staffs/attribute/frostbound": "氷縛",
+  "affix.fallen_gems_affixes:staffs/attribute/frostbound.suffix": "凍てつく道の",
+
+  "affix.fallen_gems_affixes:staffs/attribute/sanctified": "聖別",
+  "affix.fallen_gems_affixes:staffs/attribute/sanctified.suffix": "神光の",
+
+  "affix.fallen_gems_affixes:staffs/attribute/blazing": "焔舞",
+  "affix.fallen_gems_affixes:staffs/attribute/blazing.suffix": "炎の",
+
+  "affix.fallen_gems_affixes:staffs/attribute/empowered": "強化",
+  "affix.fallen_gems_affixes:staffs/attribute/empowered.suffix": "秘術の奔流の",
+
+  "affix.fallen_gems_affixes:staffs/attribute/voidtouched": "虚域に触れた",
+  "affix.fallen_gems_affixes:staffs/attribute/voidtouched.suffix": "終焉の",
+
+  "affix.fallen_gems_affixes:staffs/attribute/whispered": "囁く",
+  "affix.fallen_gems_affixes:staffs/attribute/whispered.suffix": "異界の囁きの",
+
+  "affix.fallen_gems_affixes:staffs/attribute/swift": "迅速",
+  "affix.fallen_gems_affixes:staffs/attribute/swift.suffix": "素早き詠唱の",
+
+  "affix.fallen_gems_affixes:staffs/attribute/sanguine": "血の",
+  "affix.fallen_gems_affixes:staffs/attribute/sanguine.suffix": "血術の",
+
+  "affix.fallen_gems_affixes:staffs/attribute/resonant": "共鳴",
+  "affix.fallen_gems_affixes:staffs/attribute/resonant.suffix": "響きの",
+
+  "affix.fallen_gems_affixes:staffs/attribute/voidbound": "虚無縛り",
+  "affix.fallen_gems_affixes:staffs/attribute/voidbound.suffix": "深淵の",
+
+  "affix.fallen_gems_affixes:staffs/attribute/overclocked": "過速動作",
+  "affix.fallen_gems_affixes:staffs/attribute/overclocked.suffix": "技術魔術の",
+
+  "affix.fallen_gems_affixes:staffs/attribute/drenched": "潮濡れ",
+  "affix.fallen_gems_affixes:staffs/attribute/drenched.suffix": "海の",
+
+  "affix.fallen_gems_affixes:staffs/mob_effect/acidic": "酸蝕",
+  "affix.fallen_gems_affixes:staffs/mob_effect/acidic.suffix": "腐食の",
+
+  "affix.fallen_gems_affixes:staffs/mob_effect/bloodletting": "腐食性",
+  "affix.fallen_gems_affixes:staffs/mob_effect/bloodletting.suffix": "斬殺者の",
+
+  "affix.fallen_gems_affixes:staffs/mob_effect/bolstering": "鼓舞",
+  "affix.fallen_gems_affixes:staffs/mob_effect/bolstering.suffix": "剛毅の",
+
+  "affix.fallen_gems_affixes:staffs/mob_effect/bursting": "爆発的",
+  "affix.fallen_gems_affixes:staffs/mob_effect/bursting.suffix": "活力の",
+
+  "affix.fallen_gems_affixes:staffs/mob_effect/ensnaring": "捕縛",
+  "affix.fallen_gems_affixes:staffs/mob_effect/ensnaring.suffix": "捕食者の",
+
+  "affix.fallen_gems_affixes:staffs/mob_effect/elusive": "回避の",
+  "affix.fallen_gems_affixes:staffs/mob_effect/elusive.suffix": "回避の",
+
+  "affix.fallen_gems_affixes:staffs/mob_effect/grievous": "致命傷",
+  "affix.fallen_gems_affixes:staffs/mob_effect/grievous.suffix": "創傷の",
+
+  "affix.fallen_gems_affixes:staffs/mob_effect/ivy_laced": "蔦織り",
+  "affix.fallen_gems_affixes:staffs/mob_effect/ivy_laced.suffix": "自然の毒の",
+
+  "affix.fallen_gems_affixes:staffs/mob_effect/revitalizing": "蘇生の",
+  "affix.fallen_gems_affixes:staffs/mob_effect/revitalizing.suffix": "泉源の",
+
+  "affix.fallen_gems_affixes:staffs/mob_effect/satanic": "冥火の",
+  "affix.fallen_gems_affixes:staffs/mob_effect/satanic.suffix": "燃え盛る地獄の",
+
+  "affix.fallen_gems_affixes:staffs/mob_effect/sophisticated": "古雅",
+  "affix.fallen_gems_affixes:staffs/mob_effect/sophisticated.suffix": "古代図書館の",
+
+  "affix.fallen_gems_affixes:staffs/mob_effect/swift": "迅速",
+  "affix.fallen_gems_affixes:staffs/mob_effect/swift.suffix": "打ち砕く速さの",
+
+  "affix.fallen_gems_affixes:staffs/mob_effect/weakening": "弱体化",
+  "affix.fallen_gems_affixes:staffs/mob_effect/weakening.suffix": "弱体の",
+
+  "affix.fallen_gems_affixes:staffs/mob_effect/withering": "枯萎",
+  "affix.fallen_gems_affixes:staffs/mob_effect/withering.suffix": "暗き骸の",
+
+  "bonus.fallen_gems_affixes.multi_effect.desc.and": "%s と %s",
+  "bonus.fallen_gems_affixes:multi_effect.desc.and_but": "%s と %s、しかし %s",
+  "bonus.fallen_gems_affixes:multi_effect.desc.but_and": "%s、しかし %s と %s",
+
+  "bonus.fallen_gems_affixes.boss_slayer": "ボスキラー",
+  "bonus.fallen_gems_affixes.boss_slayer.desc": "ボスに対して +%s%% ダメージ",
+
+  "affix.fallen_gems_affixes:celestial_weapons/mob_effect/astral_wisdom": "啓示の",
+  "affix.fallen_gems_affixes:celestial_weapons/mob_effect/astral_wisdom.suffix": "洞察の",
+
+  "affix.fallen_gems_affixes:celestial_weapons/mob_effect/blood_moon": "深紅",
+  "affix.fallen_gems_affixes:celestial_weapons/mob_effect/blood_moon.suffix": "血の月の",
+
+  "affix.fallen_gems_affixes:celestial_weapons/mob_effect/eclipsing": "影纏い",
+  "affix.fallen_gems_affixes:celestial_weapons/mob_effect/eclipsing.suffix": "食の暈の",
+
+  "affix.fallen_gems_affixes:celestial_weapons/mob_effect/starbreak": "裂星",
+  "affix.fallen_gems_affixes:celestial_weapons/mob_effect/starbreak.suffix": "星砕きの",
+
+  "affix.fallen_gems_affixes:celestial_weapons/mob_effect/starstep": "軽捷",
+  "affix.fallen_gems_affixes:celestial_weapons/mob_effect/starstep.suffix": "星歩の",
+
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/solar_flare": "太陽閃",
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/solar_flare.suffix": "炎の太陽の",
+
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/stellar_bloom": "星華",
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/stellar_bloom.suffix": "宇宙の成長の",
+
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/radiant_dawn": "燦然の暁",
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/radiant_dawn.suffix": "昇華の",
+
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/cosmic_whisper": "宇宙の囁き",
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/cosmic_whisper.suffix": "虚無の心の",
+
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/storm_star": "嵐星",
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/storm_star.suffix": "天焔の",
+
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/nova_impact": "ノヴァ衝撃",
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/nova_impact.suffix": "顕現の",
+
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/glacial_orbit": "氷域軌道",
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/glacial_orbit.suffix": "深冬の",
+
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/red_moon": "紅月",
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/red_moon.suffix": "血の月の",
+
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/void_echo": "虚無の残響",
+  "affix.fallen_gems_affixes:celestial_weapons/attribute/void_echo.suffix": "終焉の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/astral": "星界",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/astral.suffix": "星の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/astral_might": "星界の力",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/astral_might.suffix": "宇宙の力の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/fateweaver": "運織り",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/fateweaver.suffix": "運命を紡ぐ",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/rift_dancer": "裂隙の舞",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/rift_dancer.suffix": "完璧な運動の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/soulflare": "ソウルフレア",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/soulflare.suffix": "燃ゆる心の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/voidburst": "ヴォイドバースト",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/voidburst.suffix": "深淵の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/voidrend": "ヴォイドレンド",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/voidrend.suffix": "次元断の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/mystic": "神秘",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/mystic.suffix": "呪術の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/restorative": "回復の",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/restorative.suffix": "マナ再生の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/verdant": "翠嵐",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/verdant.suffix": "野性の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/wellspring": "泉源",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/wellspring.suffix": "内なる蓄えの",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/stormcharged": "雷帯",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/stormcharged.suffix": "嵐の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/frostbound": "氷縛",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/frostbound.suffix": "凍てつく道の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/sanctified": "聖別",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/sanctified.suffix": "神光の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/blazing": "焔舞",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/blazing.suffix": "炎の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/empowered": "強化",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/empowered.suffix": "秘術の奔流の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/voidtouched": "虚域に触れた",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/voidtouched.suffix": "終焉の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/swift": "迅速",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/swift.suffix": "素早き詠唱の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/sanguine": "血の",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/sanguine.suffix": "血術の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/whispered": "囁く",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/whispered.suffix": "異界の囁きの",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/mob_effect/astral_wisdom": "啓示の",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/mob_effect/astral_wisdom.suffix": "洞察の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/mob_effect/blood_moon": "深紅",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/mob_effect/blood_moon.suffix": "血の月の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/mob_effect/eclipsing": "影纏い",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/mob_effect/eclipsing.suffix": "食の暈の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/mob_effect/starbreak": "裂星",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/mob_effect/starbreak.suffix": "星砕きの",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/mob_effect/starstep": "軽捷",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/mob_effect/starstep.suffix": "星歩の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/solar_flare": "太陽閃",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/solar_flare.suffix": "炎の太陽の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/stellar_bloom": "星華",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/stellar_bloom.suffix": "宇宙の成長の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/radiant_dawn": "燦然の暁",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/radiant_dawn.suffix": "昇華の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/cosmic_whisper": "宇宙の囁き",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/cosmic_whisper.suffix": "虚無の心の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/storm_star": "嵐星",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/storm_star.suffix": "天焔の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/nova_impact": "ノヴァ衝撃",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/nova_impact.suffix": "顕現の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/glacial_orbit": "氷域軌道",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/glacial_orbit.suffix": "深冬の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/red_moon": "紅月",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/red_moon.suffix": "血の月の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/void_echo": "虚無の残響",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/void_echo.suffix": "終焉の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/resonant": "共鳴",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/resonant.suffix": "響きの",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/voidbound": "虚無縛り",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/voidbound.suffix": "深淵の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/overclocked": "過速動作",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/overclocked.suffix": "技術魔術の",
+
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/drenched": "潮濡れ",
+  "affix.fallen_gems_affixes:apotheotic_additions_compat/attribute/drenched.suffix": "海の",
+
+  "affix.fallen_gems_affixes:armor/spell/fangward": "牙の護符",
+  "affix.fallen_gems_affixes:armor/spell/fangward.suffix": "守護者の",
+
+  "affix.fallen_gems_affixes:armor/spell/frostborn": "氷生",
+  "affix.fallen_gems_affixes:armor/spell/frostborn.suffix": "氷河の",
+
+  "affix.fallen_gems_affixes:armor/spell/crimsonthorn": "紅刺",
+  "affix.fallen_gems_affixes:armor/spell/crimsonthorn.suffix": "突き刺す苦痛の",
+
+  "affix.fallen_gems_affixes:armor/spell/vitality": "活力",
+  "affix.fallen_gems_affixes:armor/spell/vitality.suffix": "再生の",
+
+  "affix.fallen_gems_affixes:armor/spell/warding": "護域",
+  "affix.fallen_gems_affixes:armor/spell/warding.suffix": "守りの楯の",
+
+  "affix.fallen_gems_affixes:armor/spell/pyroclastic": "火砕",
+  "affix.fallen_gems_affixes:armor/spell/pyroclastic.suffix": "煉獄の",
+
+  "affix.fallen_gems_affixes:heavy_weapon/spell/ravener": "喰らい手",
+  "affix.fallen_gems_affixes:heavy_weapon/spell/ravener.suffix": "大口の",
+
+  "affix.fallen_gems_affixes:heavy_weapon/spell/detonant": "起爆",
+  "affix.fallen_gems_affixes:heavy_weapon/spell/detonant.suffix": "連鎖破壊の",
+
+  "affix.fallen_gems_affixes:heavy_weapon/spell/blazebound": "焔縛り",
+  "affix.fallen_gems_affixes:heavy_weapon/spell/blazebound.suffix": "不死鳥の",
+
+  "affix.fallen_gems_affixes:heavy_weapon/spell/glaciar": "氷嵐",
+  "affix.fallen_gems_affixes:heavy_weapon/spell/glaciar.suffix": "烈焔の嵐の",
+
+  "affix.fallen_gems_affixes:staffs/spell/bastion": "要塞",
+  "affix.fallen_gems_affixes:staffs/spell/bastion.suffix": "耐久の",
+
+  "affix.fallen_gems_affixes:staffs/spell/radiant": "光耀",
+  "affix.fallen_gems_affixes:staffs/spell/radiant.suffix": "神罰の",
+
+  "affix.fallen_gems_affixes:staffs/spell/stormlash": "嵐鞭",
+  "affix.fallen_gems_affixes:staffs/spell/stormlash.suffix": "雷怒の",
+
+  "affix.fallen_gems_affixes:staffs/spell/hemospike": "血槍",
+  "affix.fallen_gems_affixes:staffs/spell/hemospike.suffix": "朱き牙の",
+
+  "affix.fallen_gems_affixes:sword/spell/seraphel": "セラフェル",
+  "affix.fallen_gems_affixes:sword/spell/seraphel.suffix": "聖なる裁きの",
+
+  "affix.fallen_gems_affixes:sword/spell/pyroclaw": "火爪",
+  "affix.fallen_gems_affixes:sword/spell/pyroclaw.suffix": "燃え盛る激怒の",
+
+  "affix.fallen_gems_affixes:sword/spell/bloody_slash": "血斬り",
+  "affix.fallen_gems_affixes:sword/spell/bloody_slash.suffix": "深紅の潮の",
+
+  "affix.fallen_gems_affixes:ranged_weapons/spell/arcane_arrow": "秘術の矢",
+  "affix.fallen_gems_affixes:ranged_weapons/spell/arcane_arrow.suffix": "神秘の力の",
+
+  "affix.fallen_gems_affixes:ranged_weapons/spell/venomshot": "毒撃",
+  "affix.fallen_gems_affixes:ranged_weapons/spell/venomshot.suffix": "腐食の",
+
+  "affix.fallen_gems_affixes:ranged_weapons/spell/volleystrike": "乱射撃",
+  "affix.fallen_gems_affixes:ranged_weapons/spell/volleystrike.suffix": "穿つ雨の"
+} 
